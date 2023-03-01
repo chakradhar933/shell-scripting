@@ -1,7 +1,7 @@
 # shell-scripting
 
 Shell Scripting Topics.
-
-texting
 1. printing
 2. comments
+3. functions
+4. modules

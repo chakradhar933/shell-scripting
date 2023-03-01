@@ -2,7 +2,6 @@
 
 Shell Scripting Topics.
 
-'''text
+texting
 1. printing
 2. comments
-'''

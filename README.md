@@ -4,6 +4,10 @@ Shell Scripting Topics.
 1. printing
 2. comments
 3. functions
-4. modules
-5. start shell-scripting
-6. day15
+4. variables
+5. Conditions
+6. loops
+7. inputs
+8. exit status
+9. Quotes
+10. redirectores

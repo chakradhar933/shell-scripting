@@ -17,4 +17,4 @@ echo hai caller
 
 # \e[0m = Zero code is going to reset the colour, Meaning if we enable colour for sure we need to disable it,otherwise colour will continue on screen.
 
-echo -e "\e[31chakradhar\e[0m"
+echo -e "\e[31mchakradhar\e[0m"

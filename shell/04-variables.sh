@@ -10,3 +10,6 @@ echo "Current time is $Time"
 #command Substitution
 Date=$(date)
 echo "hello ge , today date is ${Date}"
+#arthimatic substitution
+add=$((2+3))
+echo "addtion of 2+3 = ,${add}"

@@ -1,3 +1,2 @@
+# 0-n are the arguments ,$*, $@
 echo $1
-echo $2
-echo $5

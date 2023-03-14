@@ -16,3 +16,6 @@ echo "addtion of 2+3 = ,${add}"
 company=Edstem
 echo ${company}
 echo "our company name is ,${company}"
+
+##access the variable from shell.
+echo x=$x

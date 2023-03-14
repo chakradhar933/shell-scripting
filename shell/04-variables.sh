@@ -13,6 +13,6 @@ echo "hello ge , today date is ${Date}"
 #arthimatic substitution
 add=$((2+3))
 echo "addtion of 2+3 = ,${add}"
-company = Edstem
+company=Edstem
 echo ${company}
-echo "our company name is , ${company}"
+echo "our company name is ,${company}"
